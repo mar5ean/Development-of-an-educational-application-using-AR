@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Мир вокруг</string>
+    <string name="capture_button">Сохранить фото</string>
+    <string name="zoom_label">Приблизить</string>
+    <string name="flashlight_on">Включить свет</string>
+    <string name="flashlight_off">Выключить свет</string>
+</resources>
